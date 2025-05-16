@@ -155,3 +155,8 @@ Architecture et Scalabilité :
 IV. Conclusion
 
 Djangobet démontre une maîtrise approfondie des technologies web modernes. L'application allie une API robuste sous Django/DRF à des interfaces réactives en React/TypeScript. L'attention portée à la sécurité, à l'expérience utilisateur et aux bonnes pratiques de développement en fait une base solide pour de futures évolutions.
+
+
+
+
+Liens vers le rapport de Gemini : https://docs.google.com/document/d/1atf-H5XmQgfvl23afBVfpZrEt1WIF3dISbzda1K5BfQ/edit?usp=sharing
